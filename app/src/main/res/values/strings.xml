@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="edittext_hint"><font size='20'>Try your luck here</font></string>
+</resources>
