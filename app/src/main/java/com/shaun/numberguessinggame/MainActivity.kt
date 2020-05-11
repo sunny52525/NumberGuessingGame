@@ -104,7 +104,7 @@ class MainActivity : AppCompatActivity() {
                     if(secretNumber<dummy)
                         Hints.append("Guess Little Lower")
                     else
-                        Hints.append("Guess Little higer")
+                        Hints.append("Guess Little higher")
 
                 }
             }
